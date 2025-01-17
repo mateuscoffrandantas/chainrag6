@@ -1,9 +1,4 @@
-langchain==0.0.234
+langchain==0.0.184
 openai==0.27.8
-chromadb==0.3.29
-pypdf==3.12.2
+docarray==0.32.0
 streamlit==1.24.1
-tiktoken==0.4.0
-pytesseract
-Pillow
-python-docx
